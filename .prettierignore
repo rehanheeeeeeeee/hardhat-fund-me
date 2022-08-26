@@ -1,0 +1,7 @@
+.env
+node_modules
+artifacts
+img
+cache
+README.node_modules
+.*
